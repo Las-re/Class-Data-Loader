@@ -1,5 +1,6 @@
 # Class-Data-Loader
-Use python to automatically transcribe an image of a table with handwritten numbers.
+Use python to automatically transcribe an image of a table with handwritten numbers and output as a csv file.
+Useful for digitizing handwritten tables (note: be careful with table headers, as this script *__only transcribes numbers__*)
 
 ## TODO: 
 Port https://github.com/Las-re/digit-recognition script (for actual image recognition)
