@@ -10,3 +10,6 @@ Port https://github.com/KananVyas/BoxDetection script (for isolating individual 
 * remove unnecessary image saving
 * Merge with __digit-recognition__ for single-command execution
 * add a script to cleanse all folders (to avoid buildup)
+
+###Personal
+* https://datatofish.com/batch-python-script/ use to automate running. Link to web-scraper?
